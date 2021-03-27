@@ -20,7 +20,9 @@ usethis::use_data(sierraData)
 sierraStations<- read_csv("data-raw/sierraStations.csv")
 usethis::use_data(sierraStations)
 
-soilCO2_97<- read_csv("data-raw/soilCO2_97.csv")
+soilCO2_97<- read_csv("data-raw/soilCO2_97.csv") %>%
+  rename(`SOIL C`, `TEMPC`) %>%
+  select(SITE, DATE, TEMPC, `CO2%`)
 usethis::use_data(soilCO2_97)
 
 tidy_eucoak<- read_csv("data-raw/tidy_eucoak.csv")

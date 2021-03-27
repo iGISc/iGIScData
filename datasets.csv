@@ -1,0 +1,135 @@
+Package,LibPath,Item,Title
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,BayAreaCounties,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,BayAreaTracts,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,BayArea_hillsh,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,CA_ClimateNormals,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,CA_counties,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,CAfreeways,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,CAhillsh,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,ConcentrationReport,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,XSptsNDVI,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,eucoakrainfallrunoffTDR,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,sierraData,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,sierraFeb,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,sierraStations,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,soilCO2_97,
+iGIScData,C:/Users/900008452/Documents/R/win-library/4.0,tidy_eucoak,
+datasets,C:/Program Files/R/R-4.0.3/library,AirPassengers,Monthly Airline Passenger Numbers 1949-1960
+datasets,C:/Program Files/R/R-4.0.3/library,BJsales,Sales Data with Leading Indicator
+datasets,C:/Program Files/R/R-4.0.3/library,BJsales.lead (BJsales),Sales Data with Leading Indicator
+datasets,C:/Program Files/R/R-4.0.3/library,BOD,Biochemical Oxygen Demand
+datasets,C:/Program Files/R/R-4.0.3/library,CO2,Carbon Dioxide Uptake in Grass Plants
+datasets,C:/Program Files/R/R-4.0.3/library,ChickWeight,Weight versus age of chicks on different diets
+datasets,C:/Program Files/R/R-4.0.3/library,DNase,Elisa assay of DNase
+datasets,C:/Program Files/R/R-4.0.3/library,EuStockMarkets,"Daily Closing Prices of Major European Stock Indices, 1991-1998"
+datasets,C:/Program Files/R/R-4.0.3/library,Formaldehyde,Determination of Formaldehyde
+datasets,C:/Program Files/R/R-4.0.3/library,HairEyeColor,Hair and Eye Color of Statistics Students
+datasets,C:/Program Files/R/R-4.0.3/library,Harman23.cor,Harman Example 2.3
+datasets,C:/Program Files/R/R-4.0.3/library,Harman74.cor,Harman Example 7.4
+datasets,C:/Program Files/R/R-4.0.3/library,Indometh,Pharmacokinetics of Indomethacin
+datasets,C:/Program Files/R/R-4.0.3/library,InsectSprays,Effectiveness of Insect Sprays
+datasets,C:/Program Files/R/R-4.0.3/library,JohnsonJohnson,Quarterly Earnings per Johnson & Johnson Share
+datasets,C:/Program Files/R/R-4.0.3/library,LakeHuron,Level of Lake Huron 1875-1972
+datasets,C:/Program Files/R/R-4.0.3/library,LifeCycleSavings,Intercountry Life-Cycle Savings Data
+datasets,C:/Program Files/R/R-4.0.3/library,Loblolly,Growth of Loblolly pine trees
+datasets,C:/Program Files/R/R-4.0.3/library,Nile,Flow of the River Nile
+datasets,C:/Program Files/R/R-4.0.3/library,Orange,Growth of Orange Trees
+datasets,C:/Program Files/R/R-4.0.3/library,OrchardSprays,Potency of Orchard Sprays
+datasets,C:/Program Files/R/R-4.0.3/library,PlantGrowth,Results from an Experiment on Plant Growth
+datasets,C:/Program Files/R/R-4.0.3/library,Puromycin,Reaction Velocity of an Enzymatic Reaction
+datasets,C:/Program Files/R/R-4.0.3/library,Seatbelts,Road Casualties in Great Britain 1969-84
+datasets,C:/Program Files/R/R-4.0.3/library,Theoph,Pharmacokinetics of Theophylline
+datasets,C:/Program Files/R/R-4.0.3/library,Titanic,Survival of passengers on the Titanic
+datasets,C:/Program Files/R/R-4.0.3/library,ToothGrowth,The Effect of Vitamin C on Tooth Growth in Guinea Pigs
+datasets,C:/Program Files/R/R-4.0.3/library,UCBAdmissions,Student Admissions at UC Berkeley
+datasets,C:/Program Files/R/R-4.0.3/library,UKDriverDeaths,Road Casualties in Great Britain 1969-84
+datasets,C:/Program Files/R/R-4.0.3/library,UKgas,UK Quarterly Gas Consumption
+datasets,C:/Program Files/R/R-4.0.3/library,USAccDeaths,Accidental Deaths in the US 1973-1978
+datasets,C:/Program Files/R/R-4.0.3/library,USArrests,Violent Crime Rates by US State
+datasets,C:/Program Files/R/R-4.0.3/library,USJudgeRatings,Lawyers' Ratings of State Judges in the US Superior Court
+datasets,C:/Program Files/R/R-4.0.3/library,USPersonalExpenditure,Personal Expenditure Data
+datasets,C:/Program Files/R/R-4.0.3/library,UScitiesD,Distances Between European Cities and Between US Cities
+datasets,C:/Program Files/R/R-4.0.3/library,VADeaths,Death Rates in Virginia (1940)
+datasets,C:/Program Files/R/R-4.0.3/library,WWWusage,Internet Usage per Minute
+datasets,C:/Program Files/R/R-4.0.3/library,WorldPhones,The World's Telephones
+datasets,C:/Program Files/R/R-4.0.3/library,ability.cov,Ability and Intelligence Tests
+datasets,C:/Program Files/R/R-4.0.3/library,airmiles,"Passenger Miles on Commercial US Airlines, 1937-1960"
+datasets,C:/Program Files/R/R-4.0.3/library,airquality,New York Air Quality Measurements
+datasets,C:/Program Files/R/R-4.0.3/library,anscombe,Anscombe's Quartet of 'Identical' Simple Linear Regressions
+datasets,C:/Program Files/R/R-4.0.3/library,attenu,The Joyner-Boore Attenuation Data
+datasets,C:/Program Files/R/R-4.0.3/library,attitude,The Chatterjee-Price Attitude Data
+datasets,C:/Program Files/R/R-4.0.3/library,austres,Quarterly Time Series of the Number of Australian Residents
+datasets,C:/Program Files/R/R-4.0.3/library,beaver1 (beavers),Body Temperature Series of Two Beavers
+datasets,C:/Program Files/R/R-4.0.3/library,beaver2 (beavers),Body Temperature Series of Two Beavers
+datasets,C:/Program Files/R/R-4.0.3/library,cars,Speed and Stopping Distances of Cars
+datasets,C:/Program Files/R/R-4.0.3/library,chickwts,Chicken Weights by Feed Type
+datasets,C:/Program Files/R/R-4.0.3/library,co2,Mauna Loa Atmospheric CO2 Concentration
+datasets,C:/Program Files/R/R-4.0.3/library,crimtab,Student's 3000 Criminals Data
+datasets,C:/Program Files/R/R-4.0.3/library,discoveries,Yearly Numbers of Important Discoveries
+datasets,C:/Program Files/R/R-4.0.3/library,esoph,"Smoking, Alcohol and (O)esophageal Cancer"
+datasets,C:/Program Files/R/R-4.0.3/library,euro,Conversion Rates of Euro Currencies
+datasets,C:/Program Files/R/R-4.0.3/library,euro.cross (euro),Conversion Rates of Euro Currencies
+datasets,C:/Program Files/R/R-4.0.3/library,eurodist,Distances Between European Cities and Between US Cities
+datasets,C:/Program Files/R/R-4.0.3/library,faithful,Old Faithful Geyser Data
+datasets,C:/Program Files/R/R-4.0.3/library,fdeaths (UKLungDeaths),Monthly Deaths from Lung Diseases in the UK
+datasets,C:/Program Files/R/R-4.0.3/library,freeny,Freeny's Revenue Data
+datasets,C:/Program Files/R/R-4.0.3/library,freeny.x (freeny),Freeny's Revenue Data
+datasets,C:/Program Files/R/R-4.0.3/library,freeny.y (freeny),Freeny's Revenue Data
+datasets,C:/Program Files/R/R-4.0.3/library,infert,Infertility after Spontaneous and Induced Abortion
+datasets,C:/Program Files/R/R-4.0.3/library,iris,Edgar Anderson's Iris Data
+datasets,C:/Program Files/R/R-4.0.3/library,iris3,Edgar Anderson's Iris Data
+datasets,C:/Program Files/R/R-4.0.3/library,islands,Areas of the World's Major Landmasses
+datasets,C:/Program Files/R/R-4.0.3/library,ldeaths (UKLungDeaths),Monthly Deaths from Lung Diseases in the UK
+datasets,C:/Program Files/R/R-4.0.3/library,lh,Luteinizing Hormone in Blood Samples
+datasets,C:/Program Files/R/R-4.0.3/library,longley,Longley's Economic Regression Data
+datasets,C:/Program Files/R/R-4.0.3/library,lynx,Annual Canadian Lynx trappings 1821-1934
+datasets,C:/Program Files/R/R-4.0.3/library,mdeaths (UKLungDeaths),Monthly Deaths from Lung Diseases in the UK
+datasets,C:/Program Files/R/R-4.0.3/library,morley,Michelson Speed of Light Data
+datasets,C:/Program Files/R/R-4.0.3/library,mtcars,Motor Trend Car Road Tests
+datasets,C:/Program Files/R/R-4.0.3/library,nhtemp,Average Yearly Temperatures in New Haven
+datasets,C:/Program Files/R/R-4.0.3/library,nottem,"Average Monthly Temperatures at Nottingham, 1920-1939"
+datasets,C:/Program Files/R/R-4.0.3/library,npk,"Classical N, P, K Factorial Experiment"
+datasets,C:/Program Files/R/R-4.0.3/library,occupationalStatus,Occupational Status of Fathers and their Sons
+datasets,C:/Program Files/R/R-4.0.3/library,precip,Annual Precipitation in US Cities
+datasets,C:/Program Files/R/R-4.0.3/library,presidents,Quarterly Approval Ratings of US Presidents
+datasets,C:/Program Files/R/R-4.0.3/library,pressure,Vapor Pressure of Mercury as a Function of Temperature
+datasets,C:/Program Files/R/R-4.0.3/library,quakes,Locations of Earthquakes off Fiji
+datasets,C:/Program Files/R/R-4.0.3/library,randu,Random Numbers from Congruential Generator RANDU
+datasets,C:/Program Files/R/R-4.0.3/library,rivers,Lengths of Major North American Rivers
+datasets,C:/Program Files/R/R-4.0.3/library,rock,Measurements on Petroleum Rock Samples
+datasets,C:/Program Files/R/R-4.0.3/library,sleep,Student's Sleep Data
+datasets,C:/Program Files/R/R-4.0.3/library,stack.loss (stackloss),Brownlee's Stack Loss Plant Data
+datasets,C:/Program Files/R/R-4.0.3/library,stack.x (stackloss),Brownlee's Stack Loss Plant Data
+datasets,C:/Program Files/R/R-4.0.3/library,stackloss,Brownlee's Stack Loss Plant Data
+datasets,C:/Program Files/R/R-4.0.3/library,state.abb (state),US State Facts and Figures
+datasets,C:/Program Files/R/R-4.0.3/library,state.area (state),US State Facts and Figures
+datasets,C:/Program Files/R/R-4.0.3/library,state.center (state),US State Facts and Figures
+datasets,C:/Program Files/R/R-4.0.3/library,state.division (state),US State Facts and Figures
+datasets,C:/Program Files/R/R-4.0.3/library,state.name (state),US State Facts and Figures
+datasets,C:/Program Files/R/R-4.0.3/library,state.region (state),US State Facts and Figures
+datasets,C:/Program Files/R/R-4.0.3/library,state.x77 (state),US State Facts and Figures
+datasets,C:/Program Files/R/R-4.0.3/library,sunspot.month,"Monthly Sunspot Data, from 1749 to ""Present"""
+datasets,C:/Program Files/R/R-4.0.3/library,sunspot.year,"Yearly Sunspot Data, 1700-1988"
+datasets,C:/Program Files/R/R-4.0.3/library,sunspots,"Monthly Sunspot Numbers, 1749-1983"
+datasets,C:/Program Files/R/R-4.0.3/library,swiss,Swiss Fertility and Socioeconomic Indicators (1888) Data
+datasets,C:/Program Files/R/R-4.0.3/library,treering,"Yearly Treering Data, -6000-1979"
+datasets,C:/Program Files/R/R-4.0.3/library,trees,"Diameter, Height and Volume for Black Cherry Trees"
+datasets,C:/Program Files/R/R-4.0.3/library,uspop,Populations Recorded by the US Census
+datasets,C:/Program Files/R/R-4.0.3/library,volcano,Topographic Information on Auckland's Maunga Whau Volcano
+datasets,C:/Program Files/R/R-4.0.3/library,warpbreaks,The Number of Breaks in Yarn during Weaving
+datasets,C:/Program Files/R/R-4.0.3/library,women,Average Heights and Weights for American Women
+iGIScData,C:/Users/900008452/Box/course/604704/R,BayArea_hillsh,
+iGIScData,C:/Users/900008452/Box/course/604704/R,BayAreaCounties,
+iGIScData,C:/Users/900008452/Box/course/604704/R,BayAreaTracts,
+iGIScData,C:/Users/900008452/Box/course/604704/R,CA_ClimateNormals,
+iGIScData,C:/Users/900008452/Box/course/604704/R,CA_counties,
+iGIScData,C:/Users/900008452/Box/course/604704/R,CAfreeways,
+iGIScData,C:/Users/900008452/Box/course/604704/R,CAhillsh,
+iGIScData,C:/Users/900008452/Box/course/604704/R,ConcentrationReport,
+iGIScData,C:/Users/900008452/Box/course/604704/R,eucoakrainfallrunoffTDR,
+iGIScData,C:/Users/900008452/Box/course/604704/R,sierraData,
+iGIScData,C:/Users/900008452/Box/course/604704/R,sierraFeb,
+iGIScData,C:/Users/900008452/Box/course/604704/R,sierraStations,
+iGIScData,C:/Users/900008452/Box/course/604704/R,soilCO2_97,
+iGIScData,C:/Users/900008452/Box/course/604704/R,tidy_eucoak,
+iGIScData,C:/Users/900008452/Box/course/604704/R,XSptsNDVI,
