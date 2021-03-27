@@ -37,6 +37,19 @@ usethis::use_data(eucoakrainfallrunoffTDR)
 CA_ClimateNormals <- read_csv("data-raw/CA_ClimateNormals.csv")
 usethis::use_data(CA_ClimateNormals)
 
+TRI_1987_CA <- read_csv("data-raw/TRI_1987_CA.csv")
+usethis::use_data(TRI_1987_CA)
+
+TRI_1997_CA <- read_csv("data-raw/TRI_1997_CA.csv")
+usethis::use_data(TRI_1997_CA)
+
+TRI_2007_CA <- read_csv("data-raw/TRI_2007_CA.csv")
+usethis::use_data(TRI_2007_CA)
+
+TRI_2017_CA <- read_csv("data-raw/TRI_2017_CA.csv")
+usethis::use_data(TRI_2017_CA)
+
+
 
 library(sf)
 library(raster)
