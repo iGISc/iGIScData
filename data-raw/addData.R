@@ -32,6 +32,9 @@ usethis::use_data(XSptsNDVI)
 eucoakrainfallrunoffTDR<- read_csv("data-raw/eucoakrainfallrunoffTDR.csv")
 usethis::use_data(eucoakrainfallrunoffTDR)
 
+CA_ClimateNormals <- read_csv("data-raw/CA_ClimateNormals.csv")
+usethis::use_data(CA_ClimateNormals)
+
 
 library(sf)
 library(raster)
@@ -54,3 +57,4 @@ usethis::use_data(CAhillsh)
 
 BayArea_hillsh <- raster("data-raw/BayArea_hillsh.tif")
 usethis::use_data(BayArea_hillsh)
+
