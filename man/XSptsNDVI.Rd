@@ -5,8 +5,7 @@
 \alias{XSptsNDVI}
 \title{Meadow cross section with vegetation and NDVI}
 \format{
-data frame with 29 observations and 6 variables
-\describe{
+data frame with 29 observations and 6 variables \describe{
   \item{DistNtoS}{cross sectional distance location in m}
   \item{elevation}{laser-leveled elevation of data point}
   \item{vegetation}{vegetation type}

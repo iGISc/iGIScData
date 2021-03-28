@@ -5,7 +5,20 @@
 \alias{tidy_eucoak}
 \title{Eucalyptus and Oak rainfall and runoff, tidied}
 \format{
-
+180 observations of 12 variables \describe{
+  \item{site}{site id}
+  \item{site_number}{site number}
+  \item{tree}{euc or oak}
+  \item{Date}{date}
+  \item{month}{starts with month}
+  \item{rain_mm}{rain gauge measurements in mm since last visit}
+  \item{rain_subcanopy}{rain gauge measurements under canopy}
+  \item{slope}{site slope in degrees}
+  \item{aspect}{site aspect in degrees of azimuth}
+  \item{runoff_L}{runoff in L captured in Gerlach trough overflow buckets}
+  \item{surface_tension}{soil hydrophobicity as surface tension}
+  \item{runoff_rainfall_ratio}{runoff divided by rainfall}
+  }
 }
 \source{
 measurements collected for

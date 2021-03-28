@@ -5,8 +5,7 @@
 \alias{sierraFeb}
 \title{Sierra February climate data}
 \format{
-A data frame with 82 entries and 7 variables selected and renamed
-\describe{
+A data frame with 82 entries and 7 variables selected and renamed \describe{
   \item{STATION_NAME}{Station name}
   \item{COUNTY}{County Name}
   \item{ELEVATION}{Elevation in meters}

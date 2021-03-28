@@ -5,7 +5,12 @@
 \alias{soilCO2_97}
 \title{Soil CO2 1997}
 \format{
-
+data frame of 558 observations of 4 variables \describe{
+   \item{SITE}{Site number north to south}
+   \item{DATE}{Date}
+   \item{TEMPC}{Temperature degrees C}
+   \item{CO2}{Soil CO2 concentration in percent}
+ }
 }
 \source{
 field measurements from 1997 research by Davis, Amato, and Kiefer

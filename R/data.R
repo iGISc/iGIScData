@@ -29,8 +29,7 @@
 #'
 #' Selection from SierraData to only include February data
 #'
-#' @format A data frame with 82 entries and 7 variables selected and renamed
-#' \describe{
+#' @format A data frame with 82 entries and 7 variables selected and renamed \describe{
 #'   \item{STATION_NAME}{Station name}
 #'   \item{COUNTY}{County Name}
 #'   \item{ELEVATION}{Elevation in meters}
@@ -55,12 +54,11 @@
 #' Soils CO2 measurements from a transect of 11 sites from Super Sink across Marble Valley
 #' in the Marble Mountains Wilderness of California
 #'
-#' @format data frame of 558 observations of 4 variables
-#' \describe{
+#' @format data frame of 558 observations of 4 variables \describe{
 #'    \item{SITE}{Site number north to south}
 #'    \item{DATE}{Date}
 #'    \item{TEMPC}{Temperature degrees C}
-#'    \item{`CO2%`}{Soil CO2 concentration in %}
+#'    \item{CO2}{Soil CO2 concentration in percent}
 #'  }
 #' @source field measurements from 1997 research by Davis, Amato, and Kiefer
 "soilCO2_97"
@@ -75,10 +73,9 @@
 
 #' Eucalyptus and Oak rainfall and runoff, tidied
 #'
-#' @format 180 observations of 12 variables
-#' \describe{
+#' @format 180 observations of 12 variables \describe{
 #'   \item{site}{site id}
-#'   \item{`site #`}{site number}
+#'   \item{site_number}{site number}
 #'   \item{tree}{euc or oak}
 #'   \item{Date}{date}
 #'   \item{month}{starts with month}
@@ -88,7 +85,8 @@
 #'   \item{aspect}{site aspect in degrees of azimuth}
 #'   \item{runoff_L}{runoff in L captured in Gerlach trough overflow buckets}
 #'   \item{surface_tension}{soil hydrophobicity as surface tension}
-#'   \item{runoff_rainfall_ratio}{runoff/rainfall}
+#'   \item{runoff_rainfall_ratio}{runoff divided by rainfall}
+#'   }
 #' @source measurements collected for
 #' Thompson, Davis, Oliphant (2016) Surface runoff and soil erosion under
 #' eucalyptus and oak canopy. Earth Surface Processes and Landforms 41: 1018-1026.
@@ -99,8 +97,7 @@
 #' NDVI derived from multispectral drone imagery of Knuthson Meadow cross section
 #' during growing and senescent seasons in 2017 & 2018.
 #'
-#' @format data frame with 29 observations and 6 variables
-#' \describe{
+#' @format data frame with 29 observations and 6 variables \describe{
 #'   \item{DistNtoS}{cross sectional distance location in m}
 #'   \item{elevation}{laser-leveled elevation of data point}
 #'   \item{vegetation}{vegetation type}
