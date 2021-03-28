@@ -11,6 +11,9 @@ overwrite = TRUE
 sierraFeb <- read_csv("data-raw/sierraFeb.csv")
 usethis::use_data(sierraFeb)
 
+sierraClimate <- read_csv("data-raw/sierraClimate.csv")
+usethis::use_data(sierraClimate, overwrite=TRUE)
+
 ConcentrationReport <- read_csv("data-raw/ConcentrationReport.csv")
 usethis::use_data(ConcentrationReport)
 
