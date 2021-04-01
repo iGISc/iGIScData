@@ -70,9 +70,3 @@ usethis::use_data(BayAreaTracts)
 CAfreeways <- st_read("data-raw/CAfreeways.shp")
 usethis::use_data(CAfreeways)
 
-CAhillsh <- raster("data-raw/ca_hillsh_WGS84.tif")
-usethis::use_data(CAhillsh)
-
-BayArea_hillsh <- raster("data-raw/BayArea_hillsh.tif")
-usethis::use_data(BayArea_hillsh)
-
