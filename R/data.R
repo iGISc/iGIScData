@@ -54,9 +54,10 @@
 #' Soils CO2 measurements from a transect of 11 sites from Super Sink across Marble Valley
 #' in the Marble Mountains Wilderness of California
 #'
-#' @format data frame of 558 observations of 4 variables \describe{
+#' @format data frame of 558 observations of 5 variables \describe{
 #'    \item{SITE}{Site number north to south}
 #'    \item{DATE}{Date}
+#'    \item{TIME}{Time}
 #'    \item{TEMPC}{Temperature degrees C}
 #'    \item{CO2}{Soil CO2 concentration in percent}
 #'  }
@@ -169,13 +170,4 @@
 #'
 "CAfreeways"
 
-#' Bay Area hillshade
-#'
-#' @format raster
-"BayArea_hillsh"
-
-#' CA hillshade
-#'
-#' @format raster
-"CAhillsh"
 

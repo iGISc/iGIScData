@@ -5,9 +5,10 @@
 \alias{soilCO2_97}
 \title{Soil CO2 1997}
 \format{
-data frame of 558 observations of 4 variables \describe{
+data frame of 558 observations of 5 variables \describe{
    \item{SITE}{Site number north to south}
    \item{DATE}{Date}
+   \item{TIME}{Time}
    \item{TEMPC}{Temperature degrees C}
    \item{CO2}{Soil CO2 concentration in percent}
  }
