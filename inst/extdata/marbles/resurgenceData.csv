@@ -1,0 +1,10 @@
+date,"Date stored as a string ""%m/%d/%Y"""
+time,"Time stored as a string ""%H:%M"""
+Samp,"Sequential ""sample"" -- actually readings stored in the data logger -- as integers from when the logger started then took readings every 2 hours.  Note that each time the logger data was downloaded (typically in summer), the numbering starts over."
+wlevelm,water level in meters from derived from the water level sensor in the stilling well
+WTemp,water level in meters from derived from the water level sensor in the stilling well -- can be calibrated to discharge using the rating curve equation I have somewhere...
+ATemp,outside air temperature in degrees C from inside a connection box in the shade 
+EC,"specific conductance of water, can be calibrated to total dissolved solids"
+InputV,"voltage from the input of the solar panel to the power supply, mostly above the nominal 12 V "
+BTemp,"temperature in the buried box, so less variable than the air temperature"
+precip_mm,precipitation in mm from a nearby weather station in Scotts Valley

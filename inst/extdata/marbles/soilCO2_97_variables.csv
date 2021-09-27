@@ -1,0 +1,5 @@
+SITE,site number
+DATE,date
+TIME,time
+SOIL_TEMP,soil temperature C
+CO2pct,CO2 %

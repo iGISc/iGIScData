@@ -1,0 +1,44 @@
+id	elev	PM	description
+11	4160	schist	"Lovers camp, under Cedar & Yew Trees"
+12	4160	schist	"Lovers camp , in low ground cover by log S of camp ~10 m from A1"
+13	4160	schist	"Lovers camp, meadow ('96 tube date)"
+14	4160	air	"ambient air, Lovers Camp ('91 date)"
+21	4820	till?	"Doug Fir - White Fir Forest, near split log below Mbl Stair"
+31	5280	marble	"near waterfall, base of marble outcrop"
+41	5320	schist	Waterfall Junction Shady Site (under big cedar)
+42	5320	schist	Waterfall Junction Sunny Site
+43	5320	schist	"Waterfall Junction Alder Grove, in skunk cabbage"
+51	5840	neoglacial till	"Skyhigh Cirque, betw. Frying Pan & Sky High Lakes"
+61	5800	neoglacial till	aspen grove in Skyhigh Cirque
+71	5600	mmv	"Lower (mmv) Meadow below SH Cirque, shady"
+72	5600	mmv	"Lower (mmv) meadow, sunny site ~5m from A21"
+81	5520	marble	next to Tr. Junc. Cave
+91	5750	schist	wet meadow betw cabin & grain shed
+92	5750	air	ambient air Marble Valley near cabin
+101	5800	marble	soil-filled fissure above Skunk Hollow (closest)
+102	5800	marble	soil-filled fissure above Skunk Hollow
+103	5800	marble	soil-filled fissure above Skunk Hollow -- wider part next to Fir
+111	5750	schist	red-fir forest next to cabin
+121	5660	marble	lower campsite meadow
+131	5750	schist	behind grain shed in Red Firs
+141	5640	schist on marble	"mantled karst next to doline, just W of L. Marble Valley, forest"
+151	5600	marble	mantled karst in grassy doline on bench below M2
+161	6800	marble	"uvala below Super Sink, gravelly brown soil, in sun"
+171	7000	marble	shallow soil-filled fissure next to Upstairs-Downstairs Cave
+172	7000	air	Upstairs-Downstairs Cave
+191	5600	marble	"sinks below 2d mbl bench E of Skunk Hollow (same side of creek, sink 3' deep, 8' wide, conical)"
+201	5740	marble	"large sink just S of Skunk Hollow (edge of far E sink, partially mantled)"
+221	6700	air	"Cave air, small cave on hike to Super Sink"
+241	6950	neoglacial till	"Super Sink moraine, shade of foxtail pine"
+242	6940	neoglacial till	"Super Sink moraine, low point W of 241"
+243	6950	air	"Surface air, Super Sink moraine"
+261	6600	marble	"Small sink, first in string on hike to SuperSink"
+271	5820	schist	"meadow on bench above Mbl Valley, 25' E of PCT"
+281	5820	schist	"red fir forest S of upper meadow, 30' W of PCT"
+291	5880	neoglacial till	saddle betw Lower Skyhigh (E) & Frying Pan
+301	5760	air	"Skunk Hollow Cave air, stream passage"
+302	5760	air	"Skunk Hollow Cave air, lowest large room"
+303	5760	air	"Skunk Hollow Cave air, highest large room, 32' below ent"
+311	5660	marble	E end of wide soil-filled fissure N of lower campsite (30 feet wide)
+321	6200	marble	Red fir forest on marble on PCT
+331	5750	marble	Forested saddle in large sink S of Sk Hollow
