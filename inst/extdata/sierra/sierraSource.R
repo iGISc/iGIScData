@@ -1,7 +1,7 @@
 library(shiny); library(sf); library(leaflet); library(rgdal)
 library(tidyverse); library(raster, exclude = "select")
 library(iGIScData)
-
+ex <- function(fnam){system.file("extdata",fnam,package="iGIScData")}
 # Read data and create initial model from January
 XXsierraAllMonths <- right_join(sierraStations,sierraClimate,by="STATION") %>%
   filter(!is.na(STATION_NA)) %>%
