@@ -1,7 +1,8 @@
 library(sf); library(leaflet); library(tidyverse); library(lubridate)
 library(shiny); library(here)
-setwd(paste(here::here(),"/Shiny/data",sep=""))
-dataPath = getwd()
+dataPath <- paste(here::here(),"/MODISdata",sep="")
+if (!file.exists(dataPath)){dir.create(dataPath)}
+setwd(dataPath)
 pal <- colorNumeric(c("orange", "firebrick4"),domain=300:550)
 ui <- fluidPage(
   titlePanel("MODIS fire detections from temperature anomalies"),
